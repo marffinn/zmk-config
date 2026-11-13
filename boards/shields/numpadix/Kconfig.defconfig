@@ -1,0 +1,6 @@
+if SHIELD_NUMPADIX
+
+config ZMK_KEYBOARD_NAME
+    default "numpadix"
+
+endif # SHIELD_NUMPADIX
